@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ## My Skills - Technologies I use
 ![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,redux,tailwind,materialui,nodejs,expressjs,mongodb,jest,git,github,vercel,netlify)
-![My Skills](https://skillicons.dev/icons?i=html,css,supabase,sass,firebase,gulp,heroku,mysql,bootstrap,vscode,bash,redis,figma,threejs,linux)
+![My Skills](https://skillicons.dev/icons?i=html,css,supabase,sass,firebase,mysql,bootstrap,vscode,bash,figma,linux)
 
 ## 🏆 Github Status 
 <img  src="https://github-stats-lemon.vercel.app/api?username=toiaa&show_icons=true&hide_border=true&theme=tokyonight" width="48%" align="right" >
